@@ -2,7 +2,7 @@
 
 **This repo contains all the material presented during Veridise Workshop, offered by Secureum in October 2023.**
 
-See HISTORY.md for more details on how I got here.
+See [HISTORY.md](HISTORY.md) for more details on how I got here.
 
 Each day contains the lectures and the quizes, day5 contains the final audit challenge.
 
@@ -30,4 +30,4 @@ python3 -m http.server 8080
 
 ## Audit
 
-See day5-audit/audit/README.md
+See [day5-audit/audit/README.md](day5-audit/audit/README.md)
