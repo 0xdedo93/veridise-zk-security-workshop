@@ -1,0 +1,12 @@
+.DS_Store
+*.mov
+*.mp4
+**/node_modules/
+*.lock
+*.r1cs
+*.sym
+*.ptau
+*.wasm
+**/generate_witness.js
+**/witness_calculator.js
+*.zkey
